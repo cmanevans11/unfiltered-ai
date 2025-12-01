@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.env.*
+openai_api_key.txt
+journal_data.json
+conversation_history.json

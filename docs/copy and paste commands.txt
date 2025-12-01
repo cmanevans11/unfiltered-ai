@@ -1,0 +1,3 @@
+find path for personal assistant: cd "C:\Users\chris\app coding adventures\ai assistant"
+
+activate personal assistant: python console_assistant.py
